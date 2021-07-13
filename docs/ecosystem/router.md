@@ -1,0 +1,1 @@
+# hash模式和history模式
