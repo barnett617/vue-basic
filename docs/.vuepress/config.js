@@ -2,6 +2,9 @@ module.exports = {
   title: 'Vue Basic',
   desc: 'vue basic',
   base: '/vue-basic/',
+  markdown: {
+    lineNumbers: true
+  },
   themeConfig: {
     nav: [
       {
