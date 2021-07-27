@@ -38,6 +38,10 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  // eslint-disable-next-line
+  data: {
+    content: ''
   }
 }
 </script>
